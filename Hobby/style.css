@@ -15,7 +15,7 @@ h3{
 }
 @keyframes up{
     0%{font-size: 100%; color: white; background-color: #0d0d0d;}
-    50%{font-size: 110%; color: white; background-color: #0d0d0d;}
+    50%{font-size: 105%; color: white; background-color: #0d0d0d;}
     100%{font-size: 100%; color: white; background-color: #0d0d0d;}
 }
 header,footer,
